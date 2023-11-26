@@ -9,8 +9,7 @@ How real-world context influences perception and action is a topic that I am par
 ## Research experience
 In my ongoing post-doctoral work, I use [simple animations](https://www.tinyurl.com/psyanimsocial) to study how everyone sees social interactions in the world - in particular, (what makes an animation social)[https://jov.arvojournals.org/article.aspx?articleid=2791682] (manuscript in prep), how this differs across individuals, and [how the brain processes social information](https://www.jneurosci.org/content/42/49/9211?utm_source=TrendMD&utm_medium=cpc&utm_campaign=JNeurosci_TrendMD_0) - especially at various levels of social evidence (data being analysed). For my PhD, I studied how perception shifts after a state of uncertainty induced by feedback manipulation - I showed that this has sustanined effects as evidenced by  [a perceptual shift towards prior beliefs](https://www.nature.com/articles/s41598-019-41954-z) and [more corrupted stimulus representation in sensory areas](https://www.sciencedirect.com/science/article/pii/S1053811920301889).
 
-
 ## Contact information
-E-mail: rekha.s.varrier@dartmouth.edu
-Twitter: @Rekha_Va, Bluesky: @rvar.bsky.social, LinkedIn: https://www.linkedin.com/in/rekha-varrier-830a74130/
-Google scholar: https://scholar.google.com/citations?user=1JgcXmoAAAAJ&hl=en
+[E-mail](rekha.s.varrier@dartmouth.edu)
+[Twitter](https://twitter.com/Rekha_Va), [Bluesky](https://bsky.app/profile/rvar.bsky.social), [LinkedIn](https://www.linkedin.com/in/rekha-varrier-830a74130/)
+[Google scholar](https://scholar.google.com/citations?user=1JgcXmoAAAAJ&hl=en)
